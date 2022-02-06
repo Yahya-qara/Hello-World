@@ -1,0 +1,59 @@
+.page-header {
+  position: relative;
+  margin-top: 35px;
+  .row {
+    align-items: center;
+  }
+  .bar-container {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    z-index: 99999;
+    i {
+      font-size: 25px;
+    }
+  }
+  .logo-container {
+    display: flex;
+    align-items: center;
+    .brand {
+      font-size: 28px;
+      font-weight: 900;
+      color: #14183e;
+    }
+  }
+  .nav-bar {
+    list-style: none;
+    font-size: 17px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    a {
+      color: #212832;
+    }
+  }
+
+  .regester-container {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    .login {
+      color: #212832;
+      margin-right: 30px;
+    }
+    .signup {
+      color: #212832;
+      padding: 5px 10px;
+      border-radius: 5px;
+      border: solid 1px #212832;
+      white-space: nowrap;
+    }
+  }
+  .lang-dropdown {
+    display: flex;
+    justify-content: flex-end;
+    .fa-angle-down {
+      margin-left: 5px;
+    }
+  }
+}

@@ -1,0 +1,13 @@
+<svg id="Group_11" data-name="Group 11" xmlns="http://www.w3.org/2000/svg" width="47" height="48" viewBox="0 0 47 48">
+  <rect id="Rectangle_22" data-name="Rectangle 22" width="47" height="48" rx="13" fill="#006380"/>
+  <g id="taxi_1" data-name="taxi 1" transform="translate(12.75 15.625)">
+    <g id="Taxi_Car_Cab_Vehicle_Transport" data-name="Taxi Car Cab Vehicle Transport">
+      <path id="Vector" d="M1.208,2.971A1.486,1.486,0,1,1,1.5,3,1.5,1.5,0,0,1,1.208,2.971Z" transform="translate(2.25 10.5)" fill="#fff"/>
+      <path id="Vector-2" data-name="Vector" d="M1.208,2.971A1.486,1.486,0,1,1,1.5,3,1.5,1.5,0,0,1,1.208,2.971Z" transform="translate(17.25 10.5)" fill="#fff"/>
+      <path id="Vector-3" data-name="Vector" d="M6.75,0V.75H0V0Z" transform="translate(7.875 12.375)" fill="#fff"/>
+      <path id="Vector-4" data-name="Vector" d="M6.75,0V.75H0V0Z" transform="translate(7.875 10.875)" fill="#fff"/>
+      <path id="Vector-5" data-name="Vector" d="M2.25,0V.75H0V0Z" transform="translate(10.125 5.25)" fill="#fff"/>
+      <path id="Vector-6" data-name="Vector" d="M18,18.75a1.128,1.128,0,0,1-1.125-1.125V16.5H5.625v1.125A1.128,1.128,0,0,1,4.5,18.75h-3A1.128,1.128,0,0,1,.375,17.625V16.207A1.109,1.109,0,0,1,.1,15.831a1.122,1.122,0,0,1-.1-.456v-4.5a1.867,1.867,0,0,1,.529-1.3,1.1,1.1,0,0,1-.387-.406A1.123,1.123,0,0,1,0,8.625v-.75A1.128,1.128,0,0,1,1.125,6.75H2.61l.78-2.726L3.619,3.1A1.123,1.123,0,0,1,4.71,2.25H7.875V.75A.753.753,0,0,1,8.625,0h5.251a.753.753,0,0,1,.75.75v1.5H17.79a1.123,1.123,0,0,1,1.091.851l.232.926L19.89,6.75h1.485A1.128,1.128,0,0,1,22.5,7.875v.75a1.123,1.123,0,0,1-.142.543,1.1,1.1,0,0,1-.387.406,1.867,1.867,0,0,1,.529,1.3v4.5a1.122,1.122,0,0,1-.1.456,1.109,1.109,0,0,1-.276.376v1.417A1.128,1.128,0,0,1,21,18.75Z" fill="#fff"/>
+    </g>
+  </g>
+</svg>

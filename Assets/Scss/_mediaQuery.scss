@@ -1,0 +1,219 @@
+@media (max-width: 992px) {
+  .page-header {
+    margin-top: 20px;
+  }
+  .logo-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    .brand {
+      font-size: 24px;
+    }
+  }
+}
+@media (min-width: 767px) and (max-width: 1100px) {
+  .Hero-Content {
+    .desctiption {
+      h1 {
+        font-size: 3.5em;
+        line-height: 1.5;
+      }
+    }
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .Hero-Content {
+    .desctiption {
+      .tagline {
+        margin-top: 30px;
+        font-size: 1.1em;
+      }
+      h1 {
+        margin-top: 10px;
+        font-size: 3em;
+        line-height: 1.4;
+      }
+      .desc {
+        margin-top: 10px;
+        font-size: 1em;
+      }
+      .contact-discover {
+        margin-top: 30px;
+        .discover,
+        .play-demo {
+          font-size: 16px;
+        }
+      }
+    }
+  }
+  .services {
+    margin-top: 100px;
+    .Group-plus {
+      position: absolute;
+      top: -50px;
+      right: -30px;
+      height: 100px;
+    }
+    .services-header {
+      p {
+        font-size: 16px;
+      }
+      h3 {
+        font-size: 30px;
+      }
+    }
+  }
+  .Destinations {
+    margin-top: 100px;
+    .Destinations-header {
+      p {
+        font-size: 16px;
+      }
+      h3 {
+        font-size: 30px;
+      }
+    }
+  }
+  .Book-trip {
+    margin-top: 100px;
+    .trip {
+      .trip-Subheading {
+        font-size: 16px;
+        text-align: center;
+      }
+      .trip-heading {
+        text-align: center;
+        font-size: 30px;
+        max-width: 100%;
+      }
+      .trip-values {
+        .trip-value {
+          text-align: center;
+          flex-direction: column;
+          .tip-text {
+            color: #5e6282;
+            padding: 8px 0;
+            p:first-child {
+              color: #424666;
+            }
+          }
+        }
+      }
+    }
+    .tripTo {
+      margin-top: 40px;
+    }
+  }
+  .Testimonials {
+    margin-top: 100px;
+    .Testimonial {
+      .Testimonial-Subheading {
+        font-size: 16px;
+        text-align: center;
+        margin-bottom: 40px;
+      }
+      .Testimonial-heading {
+        font-size: 30px;
+        text-align: center;
+        max-width: 100%;
+      }
+      .slider {
+        margin: 0 auto;
+        display: flex;
+        justify-content: center;
+        margin-top: 30px;
+        li {
+          margin: 0 10px;
+        }
+      }
+    }
+    .review-container {
+      display: none;
+    }
+    .review-container.active {
+      max-width: 100%;
+      display: block;
+      .profile {
+        margin: 0 auto;
+        margin-top: 20px;
+        margin-bottom: 10px;
+      }
+      .review-body {
+        text-align: center;
+        margin: 0;
+        .review {
+          opacity: 1;
+        }
+      }
+    }
+  }
+  .logos {
+    margin-top: 100px;
+  }
+  .subscribe {
+    margin-top: 100px;
+    padding: 40px;
+    border-radius: 20px 20px 20px 20px;
+    p {
+      margin-top: 20px;
+      font-size: 24px;
+      max-width: 100%;
+      line-height: 40px;
+    }
+    .subscribe-form {
+      flex-direction: column;
+      position: relative;
+      width: 100%;
+      align-items: center;
+      .user-email-box {
+        width: 100%;
+        padding: 15px 30px;
+        .fa-envelope {
+          margin-left: 0;
+        }
+      }
+      .email-submit {
+        padding: 15px 30px;
+        margin-top: 10px;
+        margin-left: 0;
+      }
+    }
+    .paper-plane {
+      height: 60px;
+      width: 60px;
+      .fa-paper-plane {
+        font-size: 25px;
+      }
+    }
+    .cloud-1 {
+      display: none;
+    }
+    .cloud-2 {
+      display: none;
+    }
+  }
+  .footer {
+    margin-top: 100px;
+    .footer-brand {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+    .logo {
+      text-align: center;
+    }
+    .desc {
+      margin-top: 20px;
+      text-align: center;
+      max-width: 100%;
+    }
+    .footer-all-links {
+      margin-top: 40px;
+    }
+    .social {
+      margin-top: 20px;
+      padding-left: 0px;
+    }
+  }
+}
